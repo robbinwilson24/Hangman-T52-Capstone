@@ -55,7 +55,7 @@ To install and run the Hangman game on your local machine, follow these steps:
  ![image](https://user-images.githubusercontent.com/123034061/219879709-10a94190-1a8f-4cee-a85a-6a16a2ece523.png)
 
 6. Once this has finished installing, you can start the game by running the following "npm start".
-7. This will usually automatically a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser. 
+7. This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser. 
 8. Guess some words and have fun! 
 
 -
