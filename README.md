@@ -1,4 +1,4 @@
-# Hangman-T52-Capstone
+# React.js-Hangman
 
 ### Table of Contents
 
