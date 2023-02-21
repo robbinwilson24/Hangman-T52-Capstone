@@ -61,6 +61,6 @@ To install and run the Hangman game on your local machine, follow these steps:
 -
 -
 -
-This program was coded by me. It took a fair amount of time and was a good test of my abilities. it required a lot of research and more trial and error than I would like to admit, but I am pleased with the end result! 
+#### This program was coded by me. It took a fair amount of time and was a good test of my abilities. it required a lot of research and more trial and error than I would like to admit, but I am pleased with the end result! 
 -
-Any feedback would be appreciated.
+#### Any feedback would be appreciated.
