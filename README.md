@@ -44,19 +44,18 @@ Winner:
 To install and run the Hangman game on your local machine, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Extract all of the files and folders from the zipped folder
-3. Navigate to the folder that contains the 'package' and 'package-lock' files. 
+2. Navigate to the folder that contains the 'package' and 'package-lock' files. 
 ![image](https://user-images.githubusercontent.com/123034061/219879403-20277391-75de-4a12-b50a-04eb9baae6ff.png)
 
-4. In the file root path bar ( above the folders ) , Type in CMD to open command prompt:
+3. In the file root path bar ( above the folders ) , Type in CMD to open command prompt:
 ![image](https://user-images.githubusercontent.com/123034061/219879611-b9d689f4-0fba-47f6-a150-2818526d0640.png)
 
-5. Once in the command line, install the required dependencies by running the following  "npm install"
+4. Once in the command line, install the required dependencies by running the following  "npm install"
  ![image](https://user-images.githubusercontent.com/123034061/219879709-10a94190-1a8f-4cee-a85a-6a16a2ece523.png)
 
-6. Once this has finished installing, you can start the game by running the following "npm start".
-7. This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser. 
-8. Guess some words and have fun! 
+5. Once this has finished installing, you can start the game by running the following "npm start".
+6. This will usually automatically open a web browser and launch the program. However, you can open it yourself if you go to "http://localhost:3000" in a browser. 
+7. Guess some words and have fun! 
 
 -
 -
