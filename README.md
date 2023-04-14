@@ -1,10 +1,13 @@
 # React.js-Hangman
-##** UPDATED (14/04/2023) - Site is now more reactive and properly functions on mobile devices) 
+
+### *UPDATED (14/04/2023) - Site is now more reactive and properly functions on mobile devices)*
+
 ### Table of Contents
 
 1. [Program Description](#program-description)
 2. [Features](#features)
-3. [How to Install](#how-to-install)
+3. [Technologies Used](#technologies)
+4. [How to Install](#how-to-install)
 
 ![image](https://user-images.githubusercontent.com/123034061/219880611-bb9fa110-9ce3-4a60-aa16-80b3ee39d9e1.png)
 
@@ -28,6 +31,11 @@ The game ends once the player has correctly guessed the word or has run out of g
 - Pictures, Stats and messages that are updated throughout the game thanks to JavaScript. 
 - A pop-up that displays the rules once a "help" button is clicked.
 
+
+## Technologies Used <a name="technologies"></a>
+- Javascript
+- React.js
+- CSS
 
 
 ## How to Install <a name="how-to-install"></a>
