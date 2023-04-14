@@ -9,7 +9,11 @@
 3. [Technologies Used](#technologies)
 4. [How to Install](#how-to-install)
 
-![image](https://user-images.githubusercontent.com/123034061/219880611-bb9fa110-9ce3-4a60-aa16-80b3ee39d9e1.png)
+#### Desktop view:
+![image](https://user-images.githubusercontent.com/123034061/232139504-33f47f03-ad89-42d8-b302-31a2193eaa52.png)
+
+#### Mobile view:
+![image](https://user-images.githubusercontent.com/123034061/232139932-da96403d-9825-48fe-acd2-6cd8ad6f3d9f.png)
 
 
 ## Program Description <a name="program-description"></a>
