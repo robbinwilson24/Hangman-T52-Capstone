@@ -1,0 +1,60 @@
+.letterButton {
+  width: 35px;
+  height: 35px;
+  margin: 5px;
+  border: 2px solid rgb(0, 113, 235);
+  background-color: white;
+  border-radius: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 120%;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.letterButton:hover {
+  transform: scale(1.2);
+  transition: 0.1s;
+  box-shadow: 1px 1px 3px gray;
+}
+
+
+
+.keyboardContainer {
+  background-color: rgba(0, 0, 0, 0.05);
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 25px;
+  padding: 2px;
+  border: 1px solid white;
+  border-radius: 15px;
+  box-shadow: 1px 1px 4px rgba(0, 114, 235, 0.523);
+  margin-bottom: 10px;
+  max-width: 900px;
+  min-width: 280px;
+}
+
+@media screen and (max-width: 950px) {
+
+  .keyboardContainer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: .2s;
+
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .letterButton {
+    margin: 5px;
+     width: 30px;
+  height: 30px;
+  font-size: 110%;
+  }
+
+    .keyboardContainer {
+      width: 80%;
+      margin-top: 15px;
+
+  }
+}
