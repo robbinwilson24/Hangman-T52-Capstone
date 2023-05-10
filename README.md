@@ -1,6 +1,6 @@
 # React.js-Hangman
 
-### *UPDATED (14/04/2023) - Site is now more reactive and properly functions on mobile devices)*
+#### *UPDATED (14/04/2023) - Site is now more reactive and properly functions on mobile devices)*
 
 ### Table of Contents
 
